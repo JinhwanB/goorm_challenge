@@ -5,3 +5,5 @@ D
 src/problems/N2.java,e\6\e6cb94952be4a6abba977fd558a2decb74cbcb77
 D
 src/problems/N3.java,a\4\a48c740bbda6e8c8ea9e048be2c827a40fb6320e
+D
+src/problems/N5.java,9\9\9980846ea84564cc63480681f15002846fb3406f
