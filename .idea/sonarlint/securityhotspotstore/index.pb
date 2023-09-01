@@ -7,3 +7,5 @@ D
 src/problems/N3.java,a\4\a48c740bbda6e8c8ea9e048be2c827a40fb6320e
 D
 src/problems/N5.java,9\9\9980846ea84564cc63480681f15002846fb3406f
+D
+src/problems/N6.java,f\1\f1bbdeba105ef5c7bed6d373a968b5420360a835
