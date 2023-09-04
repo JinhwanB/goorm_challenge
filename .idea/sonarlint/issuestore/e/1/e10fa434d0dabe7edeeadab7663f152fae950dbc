@@ -1,0 +1,8 @@
+
+r	java:S117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë‡™üÿÿÿÿ8‚Øü¤1
+r	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù¬ä©ùÿÿÿÿ8ƒØü¤1
+r	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÓ«Ùıÿÿÿÿ8ƒØü¤1
+m	java:S1177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á¥ù8ƒØü¤1
+{
+java:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(´îƒƒúÿÿÿÿ8èØü¤1
+U	java:S106+"9Replace this use of System.out or System.err by a logger.(ûÄÏ8ëØü¤1
