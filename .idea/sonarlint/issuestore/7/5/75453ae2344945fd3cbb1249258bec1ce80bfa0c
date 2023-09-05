@@ -2,7 +2,7 @@
 m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ì£‹8÷”Ö¢1
 K
 java:S1659")Declare "playerCount" on a separate line.(Ãì·ûÿÿÿÿ8ñ÷”Ö¢1
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ûÄÏ8ó÷”Ö¢1
+G	java:S106"+Replace this use of System.out by a logger.(ûÄÏ8ó÷”Ö¢1
 Y
 java:S6353?"<Use concise character class syntax '\\d' instead of '[0-9]'.(äÿ¹È8àŒÖ¢1
 _

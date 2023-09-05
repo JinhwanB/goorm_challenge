@@ -13,4 +13,4 @@ m	java:S117F"QRename this local variable to match the regular expression '^[a-
 r	java:S117J"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö¡ğúÿÿÿÿ8Õ±Ñ¦¤1
 r	java:S117K"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èË­²ùÿÿÿÿ8Õ±Ñ¦¤1
 X	java:S107/"<Method has 9 parameters, which is greater than 7 authorized.(Ô©Õ8ÿ²Ñ¦¤1
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ûÄÏ8Õ‘¼¦¤1
+G	java:S106"+Replace this use of System.out by a logger.(ûÄÏ8Õ‘¼¦¤1
