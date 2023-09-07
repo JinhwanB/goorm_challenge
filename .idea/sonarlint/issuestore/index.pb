@@ -33,3 +33,5 @@ E
 src/problems/N16.java,f\1\f13c276f74fbf64a0601dc0783da539b33f979c6
 E
 src/problems/N17.java,4\0\40b8848cabf3c24b178527a23cc53b89a3c84125
+E
+src/problems/N18.java,9\d\9d5c5779faef35c4ae5b27c2f7953bfc7e0c9dad
