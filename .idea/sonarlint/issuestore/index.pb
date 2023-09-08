@@ -35,3 +35,5 @@ E
 src/problems/N17.java,4\0\40b8848cabf3c24b178527a23cc53b89a3c84125
 E
 src/problems/N18.java,9\d\9d5c5779faef35c4ae5b27c2f7953bfc7e0c9dad
+E
+src/problems/N19.java,f\e\feef882168d6b50771b2483de46d3bcb2e427323

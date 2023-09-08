@@ -53,11 +53,11 @@ public class N19 {
 
         count[s] = 1;
 
-        Queue<Node> pq = new LinkedList<>();
-        pq.offer(new Node(1, s));
+        Queue<Node> queue = new LinkedList<>();
+        queue.offer(new Node(1, s));
 
-        while(!pq.isEmpty()){
-            Node poll = pq.poll();
+        while(!queue.isEmpty()){
+            Node poll = queue.poll();
             int city = poll.city;
             int cnt = poll.count;
 
@@ -73,7 +73,7 @@ public class N19 {
                  */
                 if(num != i && count[num] > cnt + 1){
                     count[num] = cnt + 1;
-                    pq.offer(new Node(count[num], num));
+                    queue.offer(new Node(count[num], num));
                 }
             }
         }
